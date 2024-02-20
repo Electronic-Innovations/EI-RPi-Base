@@ -56,3 +56,10 @@ Once you are logged in you can download the files from this project to help with
     cd ./repos
     git clone https://github.com/Electronic-Innovations/EI-RPi-Base.git
 
+## Running the StartUp.sh script
+One of the files that is in the cloned repository is StartUp.sh. It is a shell script that steps through setting up the RPi. You can run it with the following commands
+
+    cd ./EI-RPi-Base
+    ./StartUp.sh
+
+
