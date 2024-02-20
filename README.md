@@ -62,4 +62,7 @@ One of the files that is in the cloned repository is StartUp.sh. It is a shell s
     cd ./EI-RPi-Base
     ./StartUp.sh
 
-
+The script will go through the following steps, installing or prompting you to perform actions as you go
+- Update the distribution and installed programs
+- Install and setup minicom
+- Install and connect to Tailscale
